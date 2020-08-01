@@ -1,4 +1,4 @@
-### Hey, I'm Tim. 👋 <img alt="Tim Chepeleff"  align="right" src="https://github.com/timchepeleff/timchepeleff/blob/master/5407406.jpeg" width="144">
+### Hey, I'm Tim. 👋 
 
 I solve problems with technology. 
 
@@ -7,9 +7,12 @@ I solve problems with technology.
 
 I’m a multi-disciplined Software, Platform, and Reliabty engineer with experience spanning various client, server and cloud technologies. 
 
+<img alt="Tim Chepeleff"  align="right" src="https://github.com/timchepeleff/timchepeleff/blob/master/5407406.jpeg" width="144">
+
 At the moment I'm working as a Staff Release Engineer [@Wayfair](https://tech.wayfair.com/) where I'm promoting sane (and opinionated) deployment patterns that are used by well over 1000 different services. Previously, I was consulting with early stage startups [@BarbershopLabs](http://barbershoplabs.com/) where I was quickly delivering POCs and MVPs to market. 
 
 Lately, I've been working extensively with the following: 
+
 
 * Node.js & Python
 * Container technologies (e.g. Docker/Kubernetes)
@@ -17,6 +20,7 @@ Lately, I've been working extensively with the following:
 * Microservice Architectures
 * Monorepo Architectures
 * Event Driven Architectures
+
 
 <!--
 **timchepeleff/timchepeleff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
