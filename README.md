@@ -5,9 +5,9 @@ I solve problems with technology.
 
 ## About me
 
-I’m a multi-disciplined Software, Platform, and Reliabty engineer with experience spanning various client, server and cloud technologies. 
-
 <img alt="Tim Chepeleff"  align="right" src="https://github.com/timchepeleff/timchepeleff/blob/master/5407406.jpeg" width="144">
+
+I’m a multi-disciplined Software, Platform, and Reliabty engineer with experience spanning various client, server and cloud technologies. 
 
 At the moment I'm working as a Staff Release Engineer [@Wayfair](https://tech.wayfair.com/) where I'm promoting sane (and opinionated) deployment patterns that are used by well over 1000 different services. Previously, I was consulting with early stage startups [@BarbershopLabs](http://barbershoplabs.com/) where I was quickly delivering POCs and MVPs to market. 
 
