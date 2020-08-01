@@ -1,11 +1,13 @@
 ### Hey, I'm Tim. 👋 
 
+<img alt="Tim Chepeleff"  align="right" src="https://github.com/timchepeleff/timchepeleff/blob/master/5407406.jpeg" width="144">
+
 I solve problems with technology. 
 
 
 ## About me
 
-<img alt="Tim Chepeleff"  align="right" src="https://github.com/timchepeleff/timchepeleff/blob/master/5407406.jpeg" width="144">
+
 
 I’m a multi-disciplined Software, Platform, and Reliabty engineer with experience spanning various client, server and cloud technologies. 
 
