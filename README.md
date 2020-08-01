@@ -1,4 +1,6 @@
-### Hey, I'm Tim. 👋
+### Hey, I'm Tim. 👋 <img alt="Tim Chepeleff"  align="right" src="https://github.com/timchepeleff/timchepeleff/blob/master/5407406.jpeg" width="144">
+
+
 
 I solve problems with technology. I'm currently working as a Staff Release Engineer over [@Wayfair](https://tech.wayfair.com/) and pushing simple, opinionated patterns. Previously, I was consulting with early stage startups [@BarbershopLabs](http://barbershoplabs.com/) and delivering POCs and MVPs to market. Fast.
 
@@ -12,8 +14,8 @@ Lately, I've been working extensively with the following:
 * Container technology (e.g. Docker/Kubernetes)
 * GCP (GKE, GCF, GCE, CloudSQL, and more)
 * Microservice Architectures
-* Serverless Architectures
-* Event-driven Architectures
+* Monorepo Architectures
+* Event Driven Architectures
 
 <!--
 **timchepeleff/timchepeleff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
