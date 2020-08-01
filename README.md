@@ -11,7 +11,7 @@ I’m a multi-disciplined Software, Platform, and Reliabty engineer with experie
 Lately, I've been working extensively with the following: 
 
 * Node.js & Python
-* Container technology (e.g. Docker/Kubernetes)
+* Container technologies (e.g. Docker/Kubernetes)
 * GCP (GKE, GCF, GCE, CloudSQL, and more)
 * Microservice Architectures
 * Monorepo Architectures
