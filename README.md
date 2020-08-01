@@ -1,6 +1,4 @@
-<img alt="Tim Chepeleff"  align="right" src="https://github.com/timchepeleff/timchepeleff/blob/master/5407406.jpeg" width="96">
-
-### Hey, I'm Tim. 👋 
+### Hey, I'm Tim. 👋 <img alt="Tim Chepeleff"  align="right" src="https://github.com/timchepeleff/timchepeleff/blob/master/5407406.jpeg" width="114">
 
 I solve problems with technology. 
 
