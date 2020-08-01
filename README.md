@@ -4,7 +4,7 @@
 
 I solve problems with technology. 
 
-At the moment I'm working as a Staff Release Engineer over [@Wayfair](https://tech.wayfair.com/) where I'm promoting simple, opinionated deployment patterns which are used by > 1000 different services.  Previously, I was consulting with early stage startups [@BarbershopLabs](http://barbershoplabs.com/) where I was agressively delivering POCs and MVPs to market. 
+At the moment I'm working as a Staff Release Engineer over [@Wayfair](https://tech.wayfair.com/) where I'm promoting simple, opinionated deployment patterns which are used by > 1000 different services.  Previously, I was consulting with early stage startups [@BarbershopLabs](http://barbershoplabs.com/) where I was quickly delivering POCs and MVPs to market. 
 
 ## About me
 
