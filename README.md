@@ -1,4 +1,4 @@
-<img alt="Tim Chepeleff"  align="right" src="https://github.com/timchepeleff/timchepeleff/blob/master/5407406.jpeg" width="100">
+<img alt="Tim Chepeleff"  align="right" src="https://github.com/timchepeleff/timchepeleff/blob/master/5407406.jpeg" width="124">
 
 ## Hey, I'm Tim. 👋 
 
