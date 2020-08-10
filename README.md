@@ -19,7 +19,7 @@ Lately, I've been working extensively with the following:
 * Node.js & Python
 * Container technologies (e.g. Docker/Kubernetes)
 * GCP (GKE, GCF, GCE, CloudSQL, and more)
-* Infrastructure As Code (primarily Terraform/Puppet)
+* Infrastructure As Code (Terraform/Puppet)
 * Microservice Architectures
 * Monorepo Architectures
 * Event Driven Architectures
