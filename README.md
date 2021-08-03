@@ -25,6 +25,10 @@ Lately, I've been working extensively with the following:
 * Event Driven Architectures
 
 
+## Stats
+
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timchepeleff)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **timchepeleff/timchepeleff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
