@@ -11,7 +11,7 @@ I solve problems with technology.
 
 I’m a multi-disciplined Software, Platform, and Reliability engineer with experience spanning various client, server and cloud technologies. 
 
-At the moment I'm working as a Staff Release Engineer [@Wayfair](https://tech.wayfair.com/) where I'm promoting sane (and opinionated) deployment patterns that are used by well over 1000 different services on a daily basis. Previously, I was consulting with early stage startups [@BarbershopLabs](http://barbershoplabs.com/) where I was quickly delivering POCs and MVPs to market. 
+Currently I'm working as a Senior Engineer at Chime. Previously I was a Staff Release Engineer [@Wayfair](https://tech.wayfair.com/) where I was promoting sane (and opinionated) deployment patterns which were used by well over 1000 different services on a daily basis. Before that, I was consulting with early stage startups [@BarbershopLabs](http://barbershoplabs.com/) where I was quickly delivering POCs and MVPs to market. 
 
 Lately, I've been working extensively with the following: 
 
