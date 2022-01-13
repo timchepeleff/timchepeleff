@@ -23,3 +23,4 @@ Lately, I've been working extensively with the following:
 * Microservice Architectures
 * Monorepo Architectures
 * Event Driven Architectures
+f
