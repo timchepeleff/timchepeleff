@@ -16,10 +16,10 @@ Currently I'm working as a Senior Engineer at Chime. Previously I was a Staff Re
 Lately, I've been working extensively with the following: 
 
 
-* Node.js & Python
+* Node.js, Python, Ruby
 * Container technologies (e.g. Docker/Kubernetes)
 * GCP (GKE, GCF, GCE, CloudSQL, and more), AWS
 * Infrastructure As Code (Terraform/Puppet)
 * Microservice Architectures
-* Monorepo Architectures
+* Monorepo * Monolithic Architectures
 * Event Driven Architectures
